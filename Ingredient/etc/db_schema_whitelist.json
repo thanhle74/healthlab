@@ -1,0 +1,19 @@
+{
+    "insights_ingredient": {
+        "column": {
+            "id": true,
+            "name": true,
+            "store": true,
+            "short_content": true,
+            "long_content": true,
+            "status": true,
+            "nutritional_ingredients": true,
+            "skus": true,
+            "created_at": true,
+            "updated_at": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}

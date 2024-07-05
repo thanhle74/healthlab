@@ -1,0 +1,19 @@
+{
+    "healthlab_insights": {
+        "column": {
+            "id": true,
+            "name": true,
+            "store": true,
+            "image": true,
+            "definition": true,
+            "benefits": true,
+            "status": true,
+            "infographic_ingredients": true,
+            "created_at": true,
+            "updated_at": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
